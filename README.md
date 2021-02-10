@@ -6,3 +6,5 @@ It's pretty simple, a beginner project that I wanted to do on whim.
 I'm working to make it so the content in the cards reveals when you hover over them instead of simply having the cards do the lift effect on hover.
 
 I also need to make it so all the cards are leveled prior to their hover. (The Shinx card is higher than Pikachu and Buizel card).
+
+Idea: Put an "X" in the top right of each image, giving the user the option to remove the card. An alert will return informing the user that they're about to delete the card from the selection. If they would like the card to return, press the button "Return Cards"
