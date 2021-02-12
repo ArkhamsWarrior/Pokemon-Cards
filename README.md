@@ -8,3 +8,5 @@ I'm working to make it so the content in the cards reveals when you hover over t
 I also need to make it so all the cards are leveled prior to their hover. (The Shinx card is higher than Pikachu and Buizel card).
 
 Idea: Put an "X" in the top right of each image, giving the user the option to remove the card. An alert will return informing the user that they're about to delete the card from the selection. If they would like the card to return, press the button "Return Cards"
+
+**Refer to the PokemonCards.gif for a visual of the page. Scroll X to view completely**
