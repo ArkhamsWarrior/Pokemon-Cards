@@ -1,3 +1,4 @@
+![PokemonCards](https://user-images.githubusercontent.com/49212483/109429486-edcdb180-79c9-11eb-8721-a42f48e04966.gif)
 # Pokemon-Cards
 This is my first attempt at doing some CSS hovering effects with shadows and translateX
 
